@@ -53,7 +53,7 @@ Empar ha afegit el mètode que desitja: "Feliç Any Nou.  Pau i Salut per a tots
 #### AlumneFila1 PC6:
 
 
-#### AlumneFila2 PC1:
+#### AlumneFila2 PC1: Soc Joan i he afegit a felicitació de Nadal
 
 
 #### AlumneFila2 PC2:
