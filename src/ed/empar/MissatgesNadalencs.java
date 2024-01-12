@@ -31,7 +31,7 @@ public class MissatgesNadalencs {
 
 		// Fila2
 		AlumneFila2PC1();
-
+System.out.println("Joan: Feliç Any Nou! Que tingues un gran any ple de felicitat.");
 		AlumneFila2PC2();
 
 		AlumneFila2PC3();
